@@ -1,0 +1,3 @@
+nick5: qwe
+nick1: kek
+nick2: bamb
